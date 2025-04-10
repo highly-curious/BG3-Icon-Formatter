@@ -4,6 +4,7 @@ This app is designed to automate the process for batch formatting of Action/Skil
 It is not optimized for Class, Subclass, or Race icons. 
 
 How it works:
+
      -Creates 3 copies of the image(s) in the selected input folder
 
      -Resizes all images  to 144x144, 380x380, and 64x64 sizes 
