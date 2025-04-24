@@ -1,5 +1,5 @@
 # BG3-Icon-Formatter
-This app is designed to automate the process for batch formatting of Action/Skill/Spell/Passive/Status icons for Baldur's Gate 3.
+This app is designed to automate the process for batch formatting of Action/Skill/Spell/Passive/Status icons for Baldur's Gate 3 modding.
 
 It is not optimized for Class, Subclass, or Race icons. 
 
