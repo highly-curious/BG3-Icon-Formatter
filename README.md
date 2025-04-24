@@ -26,11 +26,11 @@ Using a prefix is best practice to avoid conflict with other mods. I prefer to u
 
 
 Installation:
-# For Non-Devs
+# Pre-built EXE
 1. Download the latest release
 2. Run `BG3_icon_formatter.exe`
 
-# For Developers
+# Building from Source
 ```bash
 # Install dependencies
 pip install -r requirements.txt
