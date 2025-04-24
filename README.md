@@ -25,7 +25,7 @@ How it works:
 Using a prefix is best practice to avoid conflict with other mods. I prefer to use one consistent prefix for all files in a mod.
 
 
-#Installation:
+# Installation:
 # Pre-built EXE
 1. Download the latest release
 2. Run `BG3_icon_formatter.exe`
