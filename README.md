@@ -7,7 +7,7 @@ How it works:
 
      -Creates 3 copies of the image(s) in the selected input folder
 
-     -Resizes all images  to 144x144, 380x380, and 64x64 sizes 
+     -Resizes images to the necessary 64x64, 144x144, and 380x380 sizes 
 
      -Creates 3 folders in the selected output folder corresponding to the resolutions
       E.g.(Icons/64x64,Icons/144x144, Icons/380x380)
@@ -23,12 +23,14 @@ How it works:
       Example Input File name: Spell_Spellname
       Example Output File name: ABC_Spell_Spellname
 Using a prefix is best practice to avoid conflict with other mods. I prefer to use one consistent prefix for all files in a mod.
+Note: This does not include the backgrounds for the 64x64 hotbar icons. These will still need added to the 64x64 icons after processing using a program like paint.net or krita to match the format in game.
 
 
 # Installation:
 # Pre-built EXE
 1. Download the latest release
-2. Run `BG3 Icon Iormatter.exe`
+2. Open dist folder
+3. Run `BG3 Icon Formatter.exe`
 
 # Building from Source
 ```bash
