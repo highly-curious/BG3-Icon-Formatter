@@ -133,8 +133,9 @@ def start_processing():
         messagebox.showwarning("Input/Output Missing", "Please select both input and output folders.")
         return
 
-    if not prefix:
-        prefix = generate_random_prefix() + "_"
+# #Uncomment this block if you always want a random prefix without clicking the random button
+    # if not prefix:
+    #     prefix = generate_random_prefix() + "_"
 
     sizes = {
         "144x144": (144, 144),

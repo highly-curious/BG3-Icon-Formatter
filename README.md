@@ -19,7 +19,7 @@ How it works:
 
      -Opens output folder when process has finished.
 
- File Prefix: inserts the input text string before each ouput image file name. Random button will generate a random character string followed by underscore. 
+ File Prefix: inserts the input text string before each ouput image file name. Random button will generate a random 3 character string followed by underscore. 
       Example Input File name: Spell_Spellname
       Example Output File name: ABC_Spell_Spellname
 Using a prefix is best practice to avoid conflict with other mods. I prefer to use one consistent prefix for all files in a mod.
@@ -28,7 +28,7 @@ Using a prefix is best practice to avoid conflict with other mods. I prefer to u
 Installation:
 # For Non-Devs
 1. Download the latest release
-2. Run `BG3_icon_formatter.exe`
+2. Run `BG3 Icon Iormatter.exe`
 
 # For Developers
 ```bash
