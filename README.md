@@ -9,7 +9,7 @@ How it works:
 
      -Resizes images to the necessary 64x64, 144x144, and 380x380 sizes 
 
-     -Creates 3 folders in the selected output folder corresponding to the resolutions
+     -Creates 3 folders in the selected output folder corresponding to the resolutions (If not already existing)
       E.g.(Icons/64x64,Icons/144x144, Icons/380x380)
  
      -Places resized images into the created folders within the selected output folder.
@@ -20,10 +20,14 @@ How it works:
      -Opens output folder when process has finished.
 
  File Prefix: inserts the input text string before each ouput image file name. Random button will generate a random 3 character string followed by underscore. 
-      Example Input File name: Spell_Spellname
-      Example Output File name: ABC_Spell_Spellname
+ 
+     -Example Input File name: Spell_Spellname
+
+     -Example Output File name: ABC_Spell_Spellname
+
 Using a prefix is best practice to avoid conflict with other mods. I prefer to use one consistent prefix for all files in a mod.
-Note: This does not include the backgrounds for the 64x64 hotbar icons. These will still need added to the 64x64 icons after processing using a program like paint.net or krita to match the format in game.
+
+Note: This does not add the backgrounds for the 64x64 hotbar icons. These will still need added to the 64x64 icons after processing using a program such as paint.net or krita to match the format in game.
 
 
 # Installation:
