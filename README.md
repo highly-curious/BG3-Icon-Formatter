@@ -40,3 +40,6 @@ python src/main.py
 
 # build EXE (requires PyInstaller)
 ./build/build.sh
+
+# Or 
+pyinstaller --onefile --windowed --icon=iconformatter.ico BG3_icon_formatter.py
